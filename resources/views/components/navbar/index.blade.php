@@ -7,29 +7,18 @@
       </div>
       <div class="hidden md:block">
         <div class="ml-10 flex items-baseline space-x-4">
-          <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-          <x-nav-link href="/">Home</x-nav-link>
-          <x-nav-link href="/about">About</x-nav-link>
-          <x-nav-link href="/contact">Contact</x-nav-link>
-          <x-nav-link href="/gallery">Gallery</x-nav-link>
+         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" 
+            aria-current="page 
+            -->
+          <x-navbar.link href="/">Home</x-navbar.nav-link>
+          <x-navbar.link href="/about">About</x-navbar.nav-link>
+          <x-navbar.link href="/contact">Contact</x-navbar.nav-link>
+          <x-navbar.link href="/gallery">Gallery</x-navbar.nav-link>
         </div>
       </div>
     </div>
    
-        <!-- Profile dropdown -->
-        
-
-          <!--
-            Dropdown menu, show/hide based on menu state.
-
-            Entering: "transition ease-out duration-100"
-              From: "transform opacity-0 scale-95"
-              To: "transform opacity-100 scale-100"
-            Leaving: "transition ease-in duration-75"
-              From: "transform opacity-100 scale-100"
-              To: "transform opacity-0 scale-95"
-          -->
-         
+       
         
       </div>
     </div>
@@ -55,11 +44,10 @@
 <div class="md:hidden" id="mobile-menu">
   <div class="space-y-1 px-2 pb-3 pt-2 sm:px-3">
     <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-    <a href="#" class="block rounded-md bg-gray-900 px-3 py-2 text-base font-medium text-white" aria-current="page">Dashboard</a>
-    <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Team</a>
-    <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Projects</a>
-    <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Calendar</a>
-    <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Reports</a>
+     <x-navbar.dropdown-item href="/"> Home </x-navbar.dropdown-link>
+     <x-navbar.dropdown-item href="/about"> About </x-navbar.dropdown-link>
+     <x-navbar.dropdown-item href="/contact"> Contact </x-navbar.dropdown-link>
+     <x-navbar.dropdown-item href="/gallery"> Gallery </x-navbar.dropdown-link>
   </div>
   <div class="border-t border-gray-700 pb-3 pt-4">
     <div class="flex items-center px-5">
