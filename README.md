@@ -11,9 +11,11 @@
 # VIDEO 5 [Controller]
 ![image](https://github.com/user-attachments/assets/14c04d34-1f8a-4c10-a561-d18bc0032b5f)
 # VIDEO 6 [Migration]
-![WhatsApp Image 2024-12-12 at 22 06 05_f3d70572](https://github.com/user-attachments/assets/68ebb111-f688-417d-a5d6-805e3e9e9f6d)
-![image](https://github.com/user-attachments/assets/7027ac09-e552-40ae-b09b-896e7efb539f)
-![WhatsApp Image 2024-12-11 at 10 44 10_6a07d4b0](https://github.com/user-attachments/assets/7516369b-f8e1-453f-878d-48290a10ad37)
+![image](https://github.com/user-attachments/assets/7248d9c2-a4eb-4dc1-81e0-c373779d097c)
+![Screenshot (851)](https://github.com/user-attachments/assets/3613a10e-64b7-4b32-b443-57036266f304)
+# VIDEO 7 [Facades]
+![image](https://github.com/user-attachments/assets/9965e8e5-6ef8-4c1e-a325-6af3809a31fa)
+
 
 
 
