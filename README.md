@@ -10,6 +10,15 @@
 ![image](https://github.com/user-attachments/assets/5da8743c-0d0c-42ba-8d60-6c56e266e3c0)
 # VIDEO 5 [Controller]
 ![image](https://github.com/user-attachments/assets/14c04d34-1f8a-4c10-a561-d18bc0032b5f)
+# VIDEO 6 [Migration]
+![image](https://github.com/user-attachments/assets/7248d9c2-a4eb-4dc1-81e0-c373779d097c)
+![Screenshot (851)](https://github.com/user-attachments/assets/3613a10e-64b7-4b32-b443-57036266f304)
+# VIDEO 7 [Facades]
+![image](https://github.com/user-attachments/assets/9965e8e5-6ef8-4c1e-a325-6af3809a31fa)
+
+
+
+
 
 
 
