@@ -15,6 +15,10 @@
 ![Screenshot (851)](https://github.com/user-attachments/assets/3613a10e-64b7-4b32-b443-57036266f304)
 # VIDEO 7 [Facades]
 ![image](https://github.com/user-attachments/assets/9965e8e5-6ef8-4c1e-a325-6af3809a31fa)
+# VIDEO 8 [Fetching] 
+![image](https://github.com/user-attachments/assets/a83851ad-69f6-45b7-a796-0b8267c78118)
+# VIDEO 9 [Bagian Komponen]
+![image](https://github.com/user-attachments/assets/dfacbd8b-11b2-42a3-9815-a2f5ac44f284)
 
 
 
