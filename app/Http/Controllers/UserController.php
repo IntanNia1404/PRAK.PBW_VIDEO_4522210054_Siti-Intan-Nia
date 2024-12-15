@@ -2,14 +2,22 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Support\Facades\DB;
+use App\Models\User;
+use Illuminate\Support\Facades\Request;
 
 class UserController extends Controller
 {
     public function index()
     {
-        $users = DB::table('users')->get();
+        $users = User::query()->latest()->get();
 
-        dd($users) ;
+        return view('users.index', [
+            'users' => $users,
+        ]);
+    }
+
+    public function create()
+    {
+        return view('users.create');
     }
 }

@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('teaser');
             $table->string('body');
             $table->string('meta_title')->nullable();
+            $table->string('meta_description');
             $table->timestamps();
         });
     }
