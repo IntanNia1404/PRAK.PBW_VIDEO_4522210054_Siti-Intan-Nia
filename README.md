@@ -19,6 +19,9 @@
 ![image](https://github.com/user-attachments/assets/a83851ad-69f6-45b7-a796-0b8267c78118)
 # VIDEO 9 [Bagian Komponen]
 ![image](https://github.com/user-attachments/assets/dfacbd8b-11b2-42a3-9815-a2f5ac44f284)
+# VIDEO 10 [Fillable and Guarded]
+![image](https://github.com/user-attachments/assets/89d8d339-838c-485a-bedb-0a3a96d4c592)
+
 
 
 
