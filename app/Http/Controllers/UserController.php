@@ -15,16 +15,20 @@ class UserController extends Controller
             'users' => $users,
         ]);
     }
-
     public function create()
     {
         return view('users.create');
     }
 
+   
+   
     public function store(Request $request)
     {
-       User::create($request->only('name','email','password'));
-
-       return redirect('/users');
+        User::create($request->validate([
+            'name' => ['required', 'min:3', 'max:255', 'string'],
+            'email' => ['required', 'email'],
+            'password' => ['required', 'min:8'],
+        ]));
+        return redirect('/users');
     }
 }
