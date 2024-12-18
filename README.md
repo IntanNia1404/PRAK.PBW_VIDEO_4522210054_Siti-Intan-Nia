@@ -24,6 +24,11 @@
 # VIDEO 11 [Validasi Data]
 ![image](https://github.com/user-attachments/assets/268bab9d-8f0f-4fb6-810a-c45f76552087)
 ![image](https://github.com/user-attachments/assets/ff7e700c-7270-43a4-87ea-1d0ebc1fa352)
+# VIDEO 12 [Route Wildcard]
+![image](https://github.com/user-attachments/assets/79f2a4aa-3c98-4034-8386-6a9ac6d67ebe)
+![image](https://github.com/user-attachments/assets/4b5ea605-7e48-404d-bbc3-3d1a90768bdb)
+
+
 
 
 
