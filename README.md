@@ -21,6 +21,11 @@
 ![image](https://github.com/user-attachments/assets/dfacbd8b-11b2-42a3-9815-a2f5ac44f284)
 # VIDEO 10 [Fillable and Guarded]
 ![image](https://github.com/user-attachments/assets/89d8d339-838c-485a-bedb-0a3a96d4c592)
+# VIDEO 11 [Validasi Data]
+![image](https://github.com/user-attachments/assets/268bab9d-8f0f-4fb6-810a-c45f76552087)
+![image](https://github.com/user-attachments/assets/ff7e700c-7270-43a4-87ea-1d0ebc1fa352)
+
+
 
 
 
