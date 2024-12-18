@@ -2,33 +2,39 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\User;
+use \App\Models\User;
 use Illuminate\Http\Request;
-
 class UserController extends Controller
 {
     public function index()
     {
-        $users = User::query()->latest()->get();
+       $users = User::query()->get();
 
-        return view('users.index', [
-            'users' => $users,
-        ]);
+       return view('users.index', [
+             'users'=>$users,
+       ]);
     }
     public function create()
     {
         return view('users.create');
     }
 
-   
-   
     public function store(Request $request)
     {
-        User::create($request->validate([
-            'name' => ['required', 'min:3', 'max:255', 'string'],
-            'email' => ['required', 'email'],
-            'password' => ['required', 'min:8'],
-        ]));
+      User::create( $request->validate([
+        'name' => ['required', 'min:3', 'max:255', 'string'],
+        'email' => ['required', 'email'],
+        'password' => ['required', 'min:8'],
+      ]));
+
         return redirect('/users');
+    }
+
+    public function show(user $user)
+   
+    {
+        return view('users/show', [
+            'user' => $user,
+        ]);
     }
 }
