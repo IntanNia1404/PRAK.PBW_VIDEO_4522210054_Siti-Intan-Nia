@@ -32,7 +32,14 @@
 ![image](https://github.com/user-attachments/assets/4ab9bb68-a149-4fc7-846d-1c136ee08ee9)
 # VIDEO 14 [Handle Request]
 ![image](https://github.com/user-attachments/assets/84f69239-22fe-466a-93bd-47dcd4996369)
+![image](https://github.com/user-attachments/assets/bb9b9bfe-ac76-4c52-bb30-36866807dd21)
 # VIDEO 15 [Delete]
+Sebelum di Hapus
+![image](https://github.com/user-attachments/assets/f688f566-eb8e-4198-a246-8a33cc9fabc3)
+Sesudah di Hapus
+![image](https://github.com/user-attachments/assets/04927b5d-4219-4b52-ae70-b8fddec8d551)
+
+
 
 
 
