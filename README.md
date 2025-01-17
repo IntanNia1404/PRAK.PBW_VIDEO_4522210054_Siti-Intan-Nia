@@ -27,6 +27,13 @@
 # VIDEO 12 [Route Wildcard]
 ![image](https://github.com/user-attachments/assets/79f2a4aa-3c98-4034-8386-6a9ac6d67ebe)
 ![image](https://github.com/user-attachments/assets/4b5ea605-7e48-404d-bbc3-3d1a90768bdb)
+# VIDEO 13 [Update dan Refactor]
+![image](https://github.com/user-attachments/assets/399d8d18-41d1-4866-ad02-34b15afd1729)
+![image](https://github.com/user-attachments/assets/4ab9bb68-a149-4fc7-846d-1c136ee08ee9)
+# VIDEO 14 [Handle Request]
+![image](https://github.com/user-attachments/assets/84f69239-22fe-466a-93bd-47dcd4996369)
+# VIDEO 15 [Delete]
+
 
 
 
