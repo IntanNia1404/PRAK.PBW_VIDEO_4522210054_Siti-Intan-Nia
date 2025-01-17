@@ -38,6 +38,8 @@ Sebelum di Hapus
 ![image](https://github.com/user-attachments/assets/f688f566-eb8e-4198-a246-8a33cc9fabc3)
 Sesudah di Hapus
 ![image](https://github.com/user-attachments/assets/04927b5d-4219-4b52-ae70-b8fddec8d551)
+# VIDEO 16 [Route Resource]
+
 
 
 
