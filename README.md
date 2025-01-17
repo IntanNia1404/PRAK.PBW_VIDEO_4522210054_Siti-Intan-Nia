@@ -39,6 +39,13 @@ Sebelum di Hapus
 Sesudah di Hapus
 ![image](https://github.com/user-attachments/assets/04927b5d-4219-4b52-ae70-b8fddec8d551)
 # VIDEO 16 [Route Resource]
+![image](https://github.com/user-attachments/assets/0e7ee300-8874-440d-a864-2cd1d80d65d1)
+# VIDEO 17 [Authenticate User]
+![image](https://github.com/user-attachments/assets/6a7a08a8-1853-4426-9ca5-2088e00d1ccf)
+# VIDEO 18 [Laravel Breeze]
+![image](https://github.com/user-attachments/assets/cb656ed9-f7c2-4fb1-aa46-84d4cbb6fccf)
+# VIDEO 19 [Table dan Komponen Card]
+![image](https://github.com/user-attachments/assets/d152d9ba-64ba-491e-a421-93108fbffc17)
 
 
 
