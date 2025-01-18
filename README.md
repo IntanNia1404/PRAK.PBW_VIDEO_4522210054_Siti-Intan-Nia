@@ -1,3 +1,6 @@
+#MEMINDAHKAN FILE SEBELUMNYA AGAR SATU GITHUB BUKTINYA#
+![image](https://github.com/user-attachments/assets/f61368bc-5acd-4a15-badb-1f4ff2db81ec)
+
 # VIDEO 1
 ![image](https://github.com/user-attachments/assets/ec75becd-ba0d-4cb1-bc0d-62d0e5846089)
 # VIDEO 2
